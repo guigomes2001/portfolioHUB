@@ -27,3 +27,6 @@ Idiomas
 - Inglês(Intermediário/Avançado e técnico)
 
 Projetos Acadêmicos e Profissionais (Sem projetos solicitados/realizados no momento durante a formação)
+
+[Veja minhas Habilidades e Competências (PDF)](slides/habilidades.pdf)
+
