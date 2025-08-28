@@ -1,32 +1,68 @@
-# Portfolio HUB
+# 👋 Olá, Mundo!
 
-Meu nome é Guilherme, tenho 24 e tenho como objetivo neste repositório, evoluir o conteúdo do projeto portifólioHUB da disciplina BootCamp.
+Meu nome é **Guilherme Gomes**, tenho 24 anos e atuo atualmente como **Desenvolvedor Java**.  
+Estou cursando **Engenharia de Software** no CEUB (Brasília - DF) e complemento meu aprendizado com cursos e conteúdos online.  
+Este repositório foi criado como parte da disciplina **BootCamp** e também como **vitrine profissional** para minha trajetória acadêmica e técnica. 🚀
 
-LinkedIn - https://www.linkedin.com/in/guilherme-gomes-824880279/
-Instagram - https://www.instagram.com/gui_gomes_18/#
+---
 
-- Cursando Engenharia de Software no CEUB da Asa Norte, Brasília-DF
-- Tenho como experiência em desenvolvimento alguns projetos pessoais simples que estão com visibilidade pública neste repositório e mais alguns em desenvolvimento com visibilidade privada.
-- Atuo como Desenvolvedor no momento onde melhoro minhas habilidades técnicas constantemente
+## 📌 Introdução e Planejamento
+Este portfólio digital tem como objetivo apresentar minha trajetória acadêmica e profissional,  
+incluindo **projetos, habilidades, recomendações** e outras informações relevantes.  
+Ele foi planejado como uma ferramenta tanto acadêmica quanto profissional, para futuras oportunidades no mercado de trabalho.  
 
-Habilidades Pessoais
+---
 
-- Foco e determinação em meus objetivos
-- Resiliência ao me deparar com problemas fora do comum
-- Paciência e sanidade no que se refere á 'quanto mais posso aprender' ao invés de 'já sei fazer'
+## 🔗 Contatos
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-gomes-824880279/)  
+- 📸 [Instagram](https://www.instagram.com/gui_gomes_18/)  
 
-Habilidades Técnicas
+---
 
-- Desenvolvimento em Java 8 com Struts Framework e/ou SpringBoot
-- Estruturas de projetos MVC(Model-View-Controller)
-- Tratamento em casos de usos que atendam a regra de negócio
+## 🎓 Formação Acadêmica
+- 📍 **Cursando Engenharia de Software** – CEUB (Asa Norte, Brasília - DF)
 
-Idiomas
+---
 
-- Português(Língua nativa)
-- Inglês(Intermediário/Avançado e técnico)
+## 💼 Experiência
+- 👨‍💻 Atualmente atuando como **Desenvolvedor Java**  
+- 🌱 Experiência em projetos pessoais (públicos e privados neste repositório)  
+- 🚧 Em constante evolução, com foco em ampliar habilidades técnicas e práticas
 
-Projetos Acadêmicos e Profissionais (Sem projetos solicitados/realizados no momento durante a formação)
+---
 
-[Veja minhas Habilidades e Competências (PDF)](slide(s)/habilidades.pdf)
+## 🧩 Habilidades Pessoais
+- 🎯 Foco e determinação nos objetivos  
+- 💪 Resiliência diante de desafios  
+- 📚 Curiosidade e paciência para aprendizado contínuo  
 
+---
+
+## 💻 Habilidades Técnicas
+- ☕ Desenvolvimento em **Java 8**, **Struts Framework** e **Spring Boot**  
+- 🏗️ Arquitetura **MVC (Model-View-Controller)**  
+- ⚙️ Implementação de casos de uso alinhados à **regra de negócio**  
+
+---
+
+## 🌐 Idiomas
+- 🇧🇷 **Português** – Nativo  
+- 🇺🇸 **Inglês** – Intermediário/Avançado (com foco técnico)  
+
+---
+
+## 📂 Projetos Acadêmicos e Profissionais
+> *(Nenhum projeto solicitado/realizado no momento durante a formação acadêmica)*  
+
+[📑 Veja minhas **Habilidades e Competências (Slides em PDF)**](slides/habilidades.pdf)
+
+---
+
+## 📢 Recomendações e Testemunhos
+> *(Sem recomendações no momento – em breve serão adicionadas contribuições de professores, colegas e supervisores.)*  
+
+---
+
+## 🎯 Outros
+- Participação em cursos e treinamentos extras para fortalecimento técnico  
+- Dedicação ao estudo contínuo de novas tecnologias e boas práticas de desenvolvimento
