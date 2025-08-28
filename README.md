@@ -28,5 +28,5 @@ Idiomas
 
 Projetos Acadêmicos e Profissionais (Sem projetos solicitados/realizados no momento durante a formação)
 
-[Veja minhas Habilidades e Competências (PDF)](slide(s)/Minha apresentação.pdf)
+[Veja minhas Habilidades e Competências (PDF)](slide(s)/Minha_Apresentacao.pdf)
 
